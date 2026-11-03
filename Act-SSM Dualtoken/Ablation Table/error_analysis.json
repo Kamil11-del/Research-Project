@@ -1,0 +1,13 @@
+{
+  "50salads": {
+    "dataset": "50salads",
+    "n_videos": 50,
+    "over_seg_per_video": 1.46,
+    "under_seg_per_video": 1.34,
+    "boundary_shift_per_video": 3.52,
+    "frame_error_rate_%": 51.64,
+    "avg_gt_segs": 20.0,
+    "avg_pred_segs": 20.1,
+    "seg_count_ratio": 1.006
+  }
+}

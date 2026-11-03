@@ -1,0 +1,21 @@
+{
+  "efficiency": {
+    "dataset": "50salads",
+    "total_params_M": 1.331,
+    "trainable_params_M": 1.331,
+    "encoder_params_M": 0.624,
+    "decoder_params_M": 0.702,
+    "total_macs_G": 0.2968,
+    "encoder_macs_G": 0.2968,
+    "decoder_macs_G": 0.0,
+    "encoder_fps": 108480.0,
+    "ddim_fps": 3145.9,
+    "encoder_latency_ms": 9.22,
+    "ddim_latency_ms": 317.87,
+    "encoder_gpu_mem_MB": 29.13,
+    "ddim_gpu_mem_MB": 31.57,
+    "ddim_steps": 25,
+    "input_T": 1000,
+    "device": "cuda"
+  }
+}
